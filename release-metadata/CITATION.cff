@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Atlas: a census of communal living"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "Heart of Ecovillages"
+version: "2026-07-30"
+date-released: "2026-07-30"
+license: CC-BY-SA-4.0
+url: "https://heartofecovillages.org/#atlas"
+abstract: >-
+  A global dataset of 6,246 intentional communities across 137 countries,
+  compiled and deduplicated from roughly forty published directories in nine
+  languages, and individually verified against public web evidence. Includes
+  ecovillages, cohousing, monastic and other communal traditions, kibbutzim,
+  care communities, anarchist and autonomous projects, co-living labs and
+  Transition Towns, alongside communities affiliated with no network. Each
+  entry carries a verification stamp and a coordinate provenance. Coordinates
+  are deliberately fuzzed to roughly 1.1 km to protect residential privacy.
+keywords:
+  - intentional communities
+  - ecovillages
+  - cohousing
+  - communal living
+  - housing cooperatives
+  - social movements
